@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555417201 source:f:\tai lieu\programming_c++\oop\lab2\lab2.1\myutil\main.cpp
+	<iostream>
+	"myUtil.h"
+
+1555417270 source:f:\tai lieu\programming_c++\oop\lab2\lab2.1\myutil\myutil.cpp
+	"myUtil.h"
+
+1555417240 f:\tai lieu\programming_c++\oop\lab2\lab2.1\myutil\myutil.h
+
